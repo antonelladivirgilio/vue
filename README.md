@@ -1,8 +1,8 @@
 # test-project
 
 > A Vue.js project
-[a link](https://codesandbox.io/s/github/antonelladivirgilio/vue-bear-animation)
-:relaxed:
+[Click me!](https://codesandbox.io/s/github/antonelladivirgilio/vue-bear-animation)
+:bear:
 
 ## Build Setup
 
